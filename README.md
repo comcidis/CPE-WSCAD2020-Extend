@@ -1,6 +1,8 @@
 # CPE-WSCAD2020-Extend
  Repository for CPE - WSCAD2020-Extend
  
+> Attention, when replicating the experiment, pay attention to the location of the database according to the layout of your machine, you can change it directly in the .py code.
+ 
 ### Below is the distribution of the folders of the main experiments.
 
 	|Phase 1
