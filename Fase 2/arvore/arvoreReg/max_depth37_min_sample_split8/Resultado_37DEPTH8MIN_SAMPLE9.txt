@@ -1,0 +1,19 @@
+mean_squared_error:90.17967784703853
+489131425528||instructions|49187227986|49,99|1|insn per cycle
+449620824360||cycles|49183739566|49,99|4|GHz
+98393,60|msec|cpu-clock|98393600721|100,00|1|CPUs utilized
+2||cpu-migrations|98393600721|100,00|0|K/sec
+92087561257||branches|49183232615|49,99|935|M/sec
+6461391121||branch-misses|49180116274|49,98|7|of all branches
+11019||context-switches|98393600721|100,00|0|K/sec
+2354027050||bus-cycles|49175997159|49,98|23|M/sec
+14716038762||cache-references|39367527302|40,01|149|M/sec
+5114249259||cache-misses|39374976021|40,02|34|of all cache refs
+2||mem-loads|39378465330|40,02|0|K/sec
+66036520567||mem-stores|39382585536|40,03|671|M/sec
+66049613381||L1-dcache-stores|39349582245|39,99|671|M/sec
+///3036,29|Joules|power/energy-pkg/|97563727228|100,00||
+1961,37|Joules|power/energy-cores/|97563738213|100,00||
+0,00|Joules|power/energy-gpu/|97563737098|100,00||
+97.24user 1.30system 1:37.64elapsed 100%CPU (0avgtext+0avgdata 4434788maxresident)k
+0inputs+8outputs (0major+308410minor)pagefaults 0swaps

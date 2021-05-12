@@ -1,0 +1,19 @@
+mean_squared_error:46.98177306171925
+14431731599270||instructions|1996185538370|50,00|0|insn per cycle
+16273052540799||cycles|1996190046418|50,00|4|GHz
+3992421,44|msec|cpu-clock|3992424287901|100,00|5|CPUs utilized
+126||cpu-migrations|3992424287901|100,00|0|K/sec
+2572347045161||branches|1996238078077|50,00|644|M/sec
+207665544219||branch-misses|1996250697409|50,00|8|of all branches
+15464||context-switches|3992424287901|100,00|0|K/sec
+95559259122||bus-cycles|1996281068662|50,00|23|M/sec
+397452264756||cache-references|1597065215325|40,00|99|M/sec
+233204435934||cache-misses|1597035224896|40,00|58|of all cache refs
+2||mem-loads|1596997821018|40,00|0|K/sec
+2029720441782||mem-stores|1596972531934|40,00|508|M/sec
+2028760330298||L1-dcache-stores|1596935968737|40,00|508|M/sec
+///43149,20|Joules|power/energy-pkg/|712586875693|100,00||
+34884,92|Joules|power/energy-cores/|712586874833|100,00||
+0,00|Joules|power/energy-gpu/|712586873760|100,00||
+3987.63user 5.04system 11:52.67elapsed 560%CPU (0avgtext+0avgdata 12657088maxresident)k
+0inputs+8outputs (0major+2994996minor)pagefaults 0swaps

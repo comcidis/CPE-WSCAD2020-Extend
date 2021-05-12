@@ -1,0 +1,27 @@
+              precision    recall  f1-score   support
+
+     class 1       0.73      0.72      0.73    470440
+     class 0       0.76      0.77      0.76    529560
+
+    accuracy                           0.75   1000000
+   macro avg       0.75      0.75      0.75   1000000
+weighted avg       0.75      0.75      0.75   1000000
+
+12703522090472||instructions|2597933673649|50,00|0|insn per cycle
+20341183694915||cycles|2597887050237|50,00|3|GHz
+5195689,24|msec|cpu-clock|5195692787041|100,00|11|CPUs utilized
+295||cpu-migrations|5195692787041|100,00|0|K/sec
+1924764693556||branches|2597955122437|50,00|370|M/sec
+163572021083||branch-misses|2597885155727|50,00|8|of all branches
+48578||context-switches|5195692787041|100,00|0|K/sec
+124308461567||bus-cycles|2597956206578|50,00|23|M/sec
+353509020570||cache-references|2078299548080|40,00|68|M/sec
+204698735385||cache-misses|2078342188175|40,00|57|of all cache refs
+2||mem-loads|2078255148322|40,00|0|K/sec
+1823178365344||mem-stores|2078394404675|40,00|350|M/sec
+1823372920244||L1-dcache-stores|2078327196725|40,00|350|M/sec
+///28744,37|Joules|power/energy-pkg/|468421449745|100,00||
+23279,00|Joules|power/energy-cores/|468421449843|100,00||
+0,00|Joules|power/energy-gpu/|468421448618|100,00||
+5188.00user 7.83system 7:48.50elapsed 1109%CPU (0avgtext+0avgdata 13059712maxresident)k
+0inputs+8outputs (0major+2864248minor)pagefaults 0swaps
