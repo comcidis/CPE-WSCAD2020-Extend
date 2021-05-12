@@ -1,20 +1,27 @@
 # CPE-WSCAD2020-Extend
  Repository for CPE - WSCAD2020-Extend
-
+ 
+The databases used can be found at the following link (https://zenodo.org/record/4723678#.YJvesKhKiUl).
 ### Below is the distribution of the folders of the main experiments.
 
 	|Phase 1
-	    |perf_atualizado
-		 |arvore_class
-		 |arvore_reg
+	    |arvore
+		|arvore_class
+		|arvore_reg
+	    |floresta
+		|floresta_class
+		|floresta_reg
 
 	|Phase 2
-	    |perf_atualizado
-		 |floresta_class
-		 |floresta_reg	
-		 |xGboost
-		     |cpu
-		     |gpu 	
+	    |arvore
+		|arvore_class
+		|arvore_reg
+	    |floresta
+		|floresta_class
+		|floresta_reg	 	
+	    |xGboost
+		|cpu
+		|gpu 	
 
 ### Folder information:
 
