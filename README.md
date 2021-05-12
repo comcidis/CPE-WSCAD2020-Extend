@@ -1,7 +1,6 @@
 # CPE-WSCAD2020-Extend
  Repository for CPE - WSCAD2020-Extend
  
-The databases used can be found at the following link (https://zenodo.org/record/4723678#.YJvesKhKiUl).
 ### Below is the distribution of the folders of the main experiments.
 
 	|Phase 1
@@ -70,4 +69,7 @@ For regression, we have the following definition.
 
 Important links
 
-The C4.5, Random Forest and XGBoost algorithms  were implemented by Erik Linder-Noré(https://github.com/eriklindernoren/ML-From-Scratch), while the CART Classifier and CART Regression  algorithms  were implemented by Zaur Fataliyev(https://github.com/zziz/cart).
+All datasets are available in (https://zenodo.org/record/4723678#.YJvesKhKiUl).
+
+
+For the hotspots evaluation, Random Forest and XGBoost algorithms  were implemented by Erik Linder-Noré(https://github.com/eriklindernoren/ML-From-Scratch), while the CART Classifier and CART Regression  algorithms  were implemented by Zaur Fataliyev(https://github.com/zziz/cart).
