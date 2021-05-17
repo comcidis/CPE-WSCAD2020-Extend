@@ -1,1 +1,0 @@
-sudo: no tty present and no askpass program specified

@@ -1,0 +1,28 @@
+mean_squared_error:0.011333333333333334
+5119546040||instructions|206631405|15,23|0|insn per cycle
+5931143972||cycles|275722420|20,32|4|GHz
+1356,07|msec|cpu-clock|1356090629|100,00|2|CPUs utilized
+2||cpu-migrations|1356090629|100,00|0|K/sec
+1038194439||branches|348803385|25,71|765|M/sec
+27278121||branch-misses|352298604|25,97|2|of all branches
+58116||context-switches|1356090629|100,00|0|M/sec
+32431470||bus-cycles|357705705|26,37|23|M/sec
+131471621||cache-references|311497906|22,96|96|M/sec
+16454663||cache-misses|355257050|26,19|12|of all cache refs
+17||mem-loads|391457768|28,86|0|K/sec
+641072232||mem-stores|428083721|31,56|472|M/sec
+630524925||L1-dcache-stores|446722022|32,93|464|M/sec
+1080402930||L1-dcache-loads|427293451|31,50|796|M/sec
+43219349||L1-dcache-load-misses|392094748|28,90|4|of all L1-dcache hits
+<not supported>||L1-dcache-store-misses|0|100,00||
+3908597||LLC-stores|362393748|26,71|2|M/sec
+1350435||LLC-store-misses|322676763|23,79|0|M/sec
+15169040||LLC-loads|140928908|10,39|11|M/sec
+923338||LLC-load-misses|137986544|10,17|6|of all LL-cache hits
+20987||minor-faults|1356090629|100,00|0|M/sec
+20987||page-faults|1356090629|100,00|0|M/sec
+///21,67|Joules|power/energy-pkg/|628803463|100,00||
+14,78|Joules|power/energy-cores/|628802974|100,00||
+0,00|Joules|power/energy-gpu/|628802444|100,00||
+0.86user 0.65system 0:00.70elapsed 214%CPU (0avgtext+0avgdata 108984maxresident)k
+14584inputs+8outputs (0major+23865minor)pagefaults 0swaps
