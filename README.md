@@ -2,7 +2,15 @@
  Repository for CPE - WSCAD2020-Extend
  
 > Attention, when replicating the experiment, pay attention to the location of the database according to the layout of your machine, you can change it directly in the .py code.
- 
+
+### Here are the versions of all the tools, frameworks and environment.
+    Python: 3.7.5
+    Pandas: 1.0.4
+    Numpy: 1.18.4
+    Sckit-learn: 0.23.1
+    Ubuntu: 18.04.5 LTS
+    kernel: 5.4.0-66-generic
+   
 ### Below is the distribution of the folders of the main experiments.
 
 	|Phase 1
